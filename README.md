@@ -1,45 +1,31 @@
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           <command> [<args>]
+Viviane Farnung
 
-These are common Git commands used in various situations:
+Homework 3
 
-start a working area (see also: git help tutorial)
-   clone             Clone a repository into a new directory
-   init              Create an empty Git repository or reinitialize an existing one
+Part I: Learning Git (18 points)
 
-work on the current change (see also: git help everyday)
-   add               Add file contents to the index
-   mv                Move or rename a file, a directory, or a symlink
-   restore           Restore working tree files
-   rm                Remove files from the working tree and from the index
-   sparse-checkout   Initialize and modify the sparse-checkout
+Solve the first four levels in: htthttps://learngitbranching.js.org/ (Links to an external site.)
 
-examine the history and state (see also: git help revisions)
-   bisect            Use binary search to find the commit that introduced a bug
-   diff              Show changes between commits, commit and working tree, etc
-   grep              Print lines matching a pattern
-   log               Show commit logs
-   show              Show various types of objects
-   status            Show the working tree status
+Introduction Sequence (5 points)
+Ramping Up (5 points)
+Moving Work Around (5 points)
+A Mixed Bag (5 points)
+For extra credit, complete "Advanced Topics". (+2 points)
 
-grow, mark and tweak your common history
-   branch            List, create, or delete branches
-   commit            Record changes to the repository
-   merge             Join two or more development histories together
-   rebase            Reapply commits on top of another base tip
-   reset             Reset current HEAD to the specified state
-   switch            Switch branches
-   tag               Create, list, delete or verify a tag object signed with GPG
+For submission, you only need to demonstrate completing the levels, which can be done taking a screenshot. However, you should keep track of your solutions to help you remember how to solve these types of issues in the future, or recover if your progress gets lost.
 
-collaborate (see also: git help workflows)
-   fetch             Download objects and refs from another repository
-   pull              Fetch from and integrate with another repository or a local branch
-   push              Update remote refs along with associated objects
+Part II: Create a GitHub issue (2 points)
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+Create a github issue that keeps track of your hw3 tasks. Use markdown to annotate the issue. A reference to Markdown format can be found here: https://github.com/chrisparnin/EngineeringBasics/blob/master/MarkdownEditors.md#markdown (Links to an external site.)
+
+To add issue description, you can use the [ ] task notation, to create a simple todo list.
+
+- [ ] Upload github profile picture
+
+- [ ] Setup Project Teams...
+
+ 
+
+Submission instruction:
+
+Submit a link to your github repo. Inside your repo, ensure you have a README.md that contains information necessary for demonstrating you have completed this homework. Ensure the grader and instructor have appropriate viewing permissions.
